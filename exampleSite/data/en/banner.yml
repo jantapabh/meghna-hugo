@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/food5.webp"
+  bg_image_webp: images/food5.webp
   bg_image: images/backgrounds/food5.jpg
   icon: ''
   title: Experience
