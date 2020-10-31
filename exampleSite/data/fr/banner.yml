@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/salad-1088411.webp
-  bg_image: images/backgrounds/salad-1088411.jpg
+  bg_image_webp: ''
+  bg_image: images/backgrounds/food-clean.jpeg
   icon: ''
   title: Experience the new reality
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
