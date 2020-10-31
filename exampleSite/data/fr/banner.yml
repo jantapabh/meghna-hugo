@@ -5,8 +5,8 @@ banner:
   bg_image: images/backgrounds/food-clean.jpeg
   icon: ''
   title: GOOD CLEAN FOR GOOD LIFE
-  content: If we’re not willing to settle for junk living, we certainly shouldn’t
-    settle for junk food
+  content: "If we’re not willing to settle for junk living, \nwe certainly shouldn’t
+    settle for junk food"
   button:
     enable: true
     label: ดูเพิ่มเติม
