@@ -63,7 +63,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "images/CLEAN.png"
+logo = "images/clean-1.png"
 post_share = true
 [params.cookies]
 enable = false
