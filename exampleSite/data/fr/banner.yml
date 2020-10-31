@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
+  bg_image_webp: images/backgrounds/food4.webpage
   bg_image: images/backgrounds/food-clean.jpeg
   icon: ''
   title: Experience the new reality
