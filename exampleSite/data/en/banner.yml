@@ -5,8 +5,9 @@ banner:
   bg_image: images/backgrounds/food5.jpg
   icon: ''
   title: FOOD CLEAN FOR GOOD LIFE
-  content: If we’re not willing to settle for junk living, we certainly shouldn’t
-    settle for junk food
+  content: |-
+    If we’re not willing to settle for junk living,
+     we certainly shouldn’t settle for junk food
   button:
     enable: true
     label: Explore Us
