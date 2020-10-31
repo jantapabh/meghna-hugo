@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/food5.webp
   bg_image: images/backgrounds/food5.jpg
   icon: ''
-  title: FOOD CLEAN LIFE GOOD
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: FOOD CLEAN FOR GOOD LIFE
+  content: If we’re not willing to settle for junk living, we certainly shouldn’t
+    settle for junk food
   button:
     enable: true
     label: Explore Us
