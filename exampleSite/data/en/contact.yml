@@ -3,7 +3,8 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: ''
+  content: If you are interested, you can easily contact us, just in the personal
+    details we will contact you back immediately.
   contact_list:
   - icon: ti-location-pin
     info: PSU Phuket, Kathu
