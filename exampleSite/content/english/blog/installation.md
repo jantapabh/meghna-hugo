@@ -1,82 +1,22 @@
 ---
-title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
+title: A new approach to reducing salt.
+date: 2018-09-12T14:51:12.000+06:00
 author: Mark Dinn
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
-description : "This is meta description"
+image_webp: "/images/13.jpg"
+image: "/images/13.jpg"
+description: A new approach to reducing salt while maintaining taste
+
 ---
+## The dangers of a high-sodium diet have been well documented, but a new technology devised by scientists from Washington State University could help reduce sodium in processed foods while retaining taste and texture.
 
-## Install this template by following those simple steps:
+The dangers of a high-sodium diet have been well documented, but a new technology devised by scientists from Washington State University could help reduce sodium in processed foods while retaining taste and texture.
 
-### STEP-1 : Hugo installation
+The researchers used microwave assisted thermal sterilization (MATS) to kill pathogens without reducing flavor intensity, a common problem that occurs with retort, the current method used to help preserve food.
 
-Check this link below for install hugo on your computer.
-[hugo install documentation](https://gohugo.io/getting-started/installing/)
+During the study, which was published in the [**_Journal of Food Science_**](https://onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.15034?af=R), tasting panels evaluated mashed potatoes produced using both methods. An e-tongue assessed the impact of the reduced salt and the effect on the intensities of pepper, garlic, and other ingredients. Although pepper intensity remained the same for both fresh potatoes and those produced using MATS, it was reduced in retort processing.
 
-### STEP-2 : Create your project
+Carolyn Ross, lead author of the study, suggested that the retort process takes longer to rise to the appropriate temperature and longer to cool down, resulting in texture and flavor changes in the food being treated. Since the MATS process take less time, the impact on food flavor and texture is reduced. Additionally, when pepper flavor is retained, less salt is needed.
 
-Hugo provides a `new` command to create a new website.
+The researchers believe that a salt reduction of up to 50% could be attained using the MATS processing method because the flavor of other herbs is enhanced.
 
-```
-hugo new site <new_project>
-```
-
-### STEP-3 : Install the theme
-Run this command
-```
-hugo new site meghna-hugo
-```
-and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
-Then run the command 
-```
-git clone git@github.com:themefisher/meghna-hugo.git
-```
-
-Alternatively, you can [download the theme as .zip](https://github.com/themefisher/meghna-hugo/archive/master.zip) file and extract it in the `themes` directory
-
-After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
-
-open the command prompt again and run `cd ../` command for go back to the root folder.
-
-### STEP-4 : Host locally
-
-Launching the website locally by using the following command:
-
-```
-hugo serve
-```
-
-Go to `http://localhost:1313`
-
-Or you can check this video documentation for installing this template:
-{{< youtube 3O3qvDoVp5g >}}
-
-### STEP-5 : Basic configuration
-
-When building the website, you can set a theme by using `--theme` option. However, we suggest you modify the configuration file (`config.toml`) and set the theme as the default.
-
-```toml
-# Change the default theme to be use when building the site with Hugo
-theme = "meghna-hugo"
-```
-
-### STEP-6 : Create your first content pages
-
-```
-hugo new blog/post-name.md
-```
-
-### STEP-7 : Build the website
-
-When your site is ready to deploy, run the following command:
-
-```
-hugo
-
-# You can also create a minified version by using this command:
-hugo--minify
-
-```
-
-A `public` folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
+Although MATS is a relatively new technology, Ross believes it holds potential for reducing salt and maintaining flavor in processed foods. “We have to make a product that people want to eat,” she said in a [**press release**](https://news.wsu.edu/2020/03/03/new-technology-helps-reduce-salt-keep-flavor/). “And there are a lot of older adults that eat prepared meals because of convenience and safety. So if we can reduce salt intake from those foods, and still have pleasant flavors, it could be hugely beneficial.”
