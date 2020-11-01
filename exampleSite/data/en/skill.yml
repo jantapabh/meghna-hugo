@@ -6,8 +6,8 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
-    percent: 90%
+  - name: Salad
+    percent: 70%
   - name: Analysis
     percent: 70%
   - name: Design
