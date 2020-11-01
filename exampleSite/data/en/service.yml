@@ -7,12 +7,8 @@ service:
     icon: ti-menu
     content: We have a variety of healthy and versatile menus for you to choose from.
   - name: Order
-    icon: ti-order
+    icon: ti-layout
     content: You can choose the menu you want and order food.
   - name: Delivery
     icon: ti-delivery
     content: We have a clean food delivery service to the address you want.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
