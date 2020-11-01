@@ -55,12 +55,14 @@ portfolio:
       is good enough that you need very little to make a beautiful, creamy, full flavoured
       soup.
     link: "#"
-  - name: Business Card
+  - name: Strawberry Yogurt Smoothie
     image: "/images/007.jpg"
     image_webp: "/images/007.webp"
     categories:
     - Drink
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Made with strawberry, banana, and protein-rich ingredients like Greek
+      yogurt, peanut butter, and oatmeal, this wholesome smoothie will keep you full
+      for hours. It’s thick and creamy, pleasingly fruity, and tastes absolutely delicious.
     link: "#"
   - name: Stationary Design
     image: "/images/008.jpg"
