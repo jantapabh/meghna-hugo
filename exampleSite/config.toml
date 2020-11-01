@@ -35,12 +35,7 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[menu.main]]
-name = "blog"
+name = "NEWS"
 pre = "#"
 url = "blog"
 weight = 6
