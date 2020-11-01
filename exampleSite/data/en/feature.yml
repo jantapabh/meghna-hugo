@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/010.jpeg
+  image_webp: images/010.jpeg
   title: We are the best choice for healthcare.
   content: To take care of your health Let us be another option that will help in
     the diet that is good for your health.
