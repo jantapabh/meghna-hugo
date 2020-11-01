@@ -8,7 +8,7 @@ skill:
   skill_item:
   - name: Salad
     percent: 70%
-  - name: Analysis
+  - name: Salad Roll
     percent: 15%
   - name: Design
     percent: 80%
