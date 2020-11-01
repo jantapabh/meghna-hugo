@@ -6,10 +6,9 @@ service:
   - name: Menu
     icon: ti-menu
     content: We have a variety of healthy and versatile menus for you to choose from.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Order
+    icon: ti-order
+    content: You can choose the menu you want and order food.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
