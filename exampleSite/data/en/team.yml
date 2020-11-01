@@ -3,12 +3,6 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: ''
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social: ''
   - name: Jantapa Binheem
     image_webp: 'images/004.webp '
     image: images/004.jpg
@@ -70,8 +64,14 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Nichachawalee Chatwattananon
-    image_webp: 'images/004.webp '
-    image: images/004.jpg
+    image_webp: 'images/005.webp '
+    image: images/005.jpg
     designation: SEO Specialist
+    content: ''
+    social: ''
+  - name: TUNA
+    image_webp: 'images/006.webp '
+    image: images/006.jpg
+    designation: ''
     content: ''
     social: ''
