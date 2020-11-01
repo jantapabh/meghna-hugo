@@ -1,8 +1,8 @@
 ---
 title: " ‘They typically take more care over what they’re eating’"
 date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: "/images/23.jpg"
+image: "/images/23.jpg"
 author: John Doe
 description: " ‘They typically take more care over what they’re eating’"
 
