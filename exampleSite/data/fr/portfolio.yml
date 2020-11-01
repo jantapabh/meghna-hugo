@@ -28,44 +28,41 @@ portfolio:
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
-    - photography
-    - development
+    - Snack
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
-    - design
+    - Snack
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
-    - photography
+    - Snack
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
     categories:
-    - development
+    - Drink
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
     categories:
-    - design
-    - development
+    - Drink
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: "/images/009.jpg"
+    image_webp: "/images/009.webp"
     categories:
-    - design
-    - photography
+    - Drink
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
