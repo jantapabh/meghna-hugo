@@ -6,8 +6,7 @@ portfolio:
   - name: Sandwich
     image: "/images/001.jpg"
     image_webp: "/images/001.webp"
-    categories:
-    - design
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
   - name: Bean
