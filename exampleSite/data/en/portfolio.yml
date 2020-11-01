@@ -35,7 +35,7 @@ portfolio:
     image: "/images/005.jpg"
     image_webp: "/images/005.webp"
     categories:
-    - design
+    - Snack
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
