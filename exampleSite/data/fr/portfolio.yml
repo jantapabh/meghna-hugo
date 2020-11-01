@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Tag Design
+  - name: Sandwich
     image: "/images/001.jpg"
     image_webp: "/images/001.webp"
     categories:
