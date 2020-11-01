@@ -34,8 +34,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: "/images/005.jpg"
+    image_webp: "/images/005.webp"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
