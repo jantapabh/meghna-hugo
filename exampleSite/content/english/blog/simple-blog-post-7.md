@@ -1,5 +1,5 @@
 ---
-title: " ‘They typically take more care over what they’re eating’"
+title: " ‘They typically take more care ’"
 date: 2018-09-12T12:52:36.000+06:00
 image_webp: "/images/23.jpg"
 image: "/images/23.jpg"
