@@ -55,8 +55,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
+    image: "/images/008.jpg"
+    image_webp: "/images/008.webp"
     categories:
     - design
     - development
