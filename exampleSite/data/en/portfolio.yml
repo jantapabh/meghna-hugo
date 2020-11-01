@@ -56,8 +56,8 @@ portfolio:
       soup.
     link: "#"
   - name: Strawberry Yogurt Smoothie
-    image: "/images/007.jpg"
-    image_webp: "/images/007.webp"
+    image: images/011.jpg
+    image_webp: "/images/011.webp"
     categories:
     - Drink
     content: Made with strawberry, banana, and protein-rich ingredients like Greek
