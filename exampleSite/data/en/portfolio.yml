@@ -26,8 +26,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: "/images/004.jpg"
+    image_webp: "/images/004.webp"
     categories:
     - photography
     - development
