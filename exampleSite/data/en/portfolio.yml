@@ -24,7 +24,7 @@ portfolio:
     - Main
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Bottol Label
+  - name: Salad
     image: "/images/004.jpg"
     image_webp: "/images/004.webp"
     categories:
