@@ -9,12 +9,6 @@ team:
     designation: ''
     content: ''
     social: ''
-  - name: Nichachawalee Chatwattananon
-    image_webp: 'images/004.webp '
-    image: images/004.jpg
-    designation: ''
-    content: ''
-    social: ''
   - name: Jantapa Binheem
     image_webp: 'images/004.webp '
     image: images/004.jpg
@@ -75,3 +69,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - name: Nichachawalee Chatwattananon
+    image_webp: 'images/004.webp '
+    image: images/004.jpg
+    designation: SEO Specialist
+    content: ''
+    social: ''
