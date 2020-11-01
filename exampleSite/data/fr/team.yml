@@ -4,7 +4,7 @@ team:
   title: Our Team
   team_member:
   - name: Abul Mal Muhit
-    image_webp: 'images//images/004.webp '
+    image_webp: 'images/004.webp '
     image: "/images/004.jpg"
     designation: CEO/Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
