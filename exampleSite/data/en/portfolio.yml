@@ -42,7 +42,7 @@ portfolio:
     image: "/images/006.jpg"
     image_webp: "/images/006.webp"
     categories:
-    - photography
+    - Snack
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
