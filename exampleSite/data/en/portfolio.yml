@@ -74,10 +74,13 @@ portfolio:
       in a variety of colors, and are now grown all over, although they have native
       roots in Asia.
     link: "#"
-  - name: Tag Design
+  - name: Lemon smoothie
     image: "/images/009.jpg"
     image_webp: "/images/009.webp"
     categories:
     - Drink
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Bright and creamy, this Lemon Smoothie is a great way to kick start your
+      day. It's refreshing, easy to make and loaded with SUPERFOODS that will boost
+      your mood and your immunity. It's a perfect energizing morning drink that is
+      totally delicious!
     link: "#"
