@@ -66,8 +66,6 @@ portfolio:
     image: "/images/009.jpg"
     image_webp: "/images/009.webp"
     categories:
-    - design
-    - photography
-    - set1
+    - Drink
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
