@@ -17,9 +17,9 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+  - name: Salad
+    image: "/images/003.jpg"
+    image_webp: "/images/003.webp"
     categories:
     - design
     - development
