@@ -18,9 +18,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Frank Miller
+  - name: Apinun Saartiam
     image_webp: 'images/001.webp '
-    image: 'images/001.webp '
+    image: images/001.jpg
     designation: Manager
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
