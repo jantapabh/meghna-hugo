@@ -63,15 +63,3 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Nichachawalee Chatwattananon
-    image_webp: 'images/005.webp '
-    image: images/005.jpg
-    designation: SEO Specialist
-    content: ''
-    social: ''
-  - name: TUNA
-    image_webp: 'images/006.webp '
-    image: images/006.jpg
-    designation: ''
-    content: ''
-    social: ''
