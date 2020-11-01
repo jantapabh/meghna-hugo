@@ -3,16 +3,16 @@ skill:
   enable: true
   title: " Best Sales"
   subtitle: The best sales in November.
-  content: ''
+  content: 5 Best Health Food Stores You Can Order From Online in our company
   image: images/001.jpg
   skill_item:
   - name: Sandwich
     percent: 65%
   - name: Salad Roll
     percent: 15%
-  - name: Salad
-    percent: 12%
   - name: Lemon smoothie
     percent: 5%
+  - name: Salad
+    percent: 12%
   - name: Strawberry Yogurt Smoothie
     percent: 3%
