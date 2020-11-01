@@ -64,12 +64,15 @@ portfolio:
       yogurt, peanut butter, and oatmeal, this wholesome smoothie will keep you full
       for hours. It’s thick and creamy, pleasingly fruity, and tastes absolutely delicious.
     link: "#"
-  - name: Stationary Design
+  - name: Carrot Smoothie
     image: "/images/008.jpg"
     image_webp: "/images/008.webp"
     categories:
     - Drink
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: One of the most commonly enjoyed vegetables in the world, carrots are
+      a root vegetable that have been cultivated for hundreds of years. They come
+      in a variety of colors, and are now grown all over, although they have native
+      roots in Asia.
     link: "#"
   - name: Tag Design
     image: "/images/009.jpg"
