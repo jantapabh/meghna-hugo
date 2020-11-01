@@ -7,7 +7,7 @@ service:
     icon: ti-menu
     content: We have a variety of healthy and versatile menus for you to choose from.
   - name: Order
-    icon: ti-layout
+    icon: ti-list
     content: You can choose the menu you want and order food.
   - name: Delivery
     icon: ti-car
