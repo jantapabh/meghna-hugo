@@ -31,12 +31,15 @@ portfolio:
     - Snack
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Shopping Bag
+  - name: Salad Roll
     image: "/images/005.jpg"
     image_webp: "/images/005.webp"
     categories:
     - Snack
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Vietnamese salad rolls, also known as spring rolls, summer rolls, or
+      rice paper rolls are basically like a spring roll that are not fried. The key
+      components in a salad roll are rice wrappers, vermicelli noodles, protein, vegetables,
+      and fresh herbs.
     link: "#"
   - name: Tag Design
     image: "/images/006.jpg"
