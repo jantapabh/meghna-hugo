@@ -9,7 +9,7 @@ skill:
   - name: Salad
     percent: 70%
   - name: Analysis
-    percent: 70%
+    percent: 15%
   - name: Design
     percent: 80%
   - name: IOS Development
