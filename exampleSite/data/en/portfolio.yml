@@ -24,12 +24,16 @@ portfolio:
     - Main
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Salad
+  - name: Taco Salad shell
     image: "/images/004.jpg"
     image_webp: "/images/004.webp"
     categories:
     - Snack
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Soft Shell Crab Salad, served with soft shell crab that can be eaten
+      whole. Topped with dressing Tomato salsa With a sweet and sour taste, a mixture
+      of meat, tomatoes, garlic, shallots, pepper perfectly matched with soft crab
+      meat, crab meat and crispy outside. Served with fresh vegetables from the Royal
+      Project It is a healthy menu that you can enjoy both Thai and foreigners.
     link: "#"
   - name: Salad Roll
     image: "/images/005.jpg"
