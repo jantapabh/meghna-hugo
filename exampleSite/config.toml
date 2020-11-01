@@ -13,12 +13,12 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = ""
-copyright = ""
-home = ""
-languageCode = ""
-languageName = ""
-weight = ""
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Home"
+languageCode = "fr-ua"
+languageName = "fr"
+weight = "2"
 [[menu.main]]
 name = "ABOUT"
 pre = "#"
