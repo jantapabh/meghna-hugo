@@ -4,7 +4,7 @@ skill:
   title: " Best Sales"
   subtitle: The best sales in November.
   content: ''
-  image: images/about/company-growth.webp
+  image: images/001.jpg
   skill_item:
   - name: Sandwich
     percent: 65%
