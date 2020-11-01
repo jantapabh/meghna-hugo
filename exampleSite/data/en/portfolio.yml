@@ -51,7 +51,7 @@ portfolio:
     image: "/images/007.jpg"
     image_webp: "/images/007.webp"
     categories:
-    - development
+    - Drink
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Design
