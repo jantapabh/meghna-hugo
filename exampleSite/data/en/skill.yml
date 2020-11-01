@@ -6,8 +6,8 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: Salad
-    percent: 70%
+  - name: Sandwich
+    percent: 65%
   - name: Salad Roll
     percent: 15%
   - name: Design
