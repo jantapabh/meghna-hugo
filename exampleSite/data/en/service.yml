@@ -10,5 +10,5 @@ service:
     icon: ti-layout
     content: You can choose the menu you want and order food.
   - name: Delivery
-    icon: ti-delivery
+    icon: ti-car
     content: We have a clean food delivery service to the address you want.
