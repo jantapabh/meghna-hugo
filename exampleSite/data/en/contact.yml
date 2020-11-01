@@ -12,7 +12,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: +0922389204'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: food-clean@meghna.com'
   contact_form:
     enable: true
     form_action: "#"
