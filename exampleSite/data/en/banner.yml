@@ -10,5 +10,5 @@ banner:
      we certainly shouldn’t settle for junk food
   button:
     enable: true
-    label: ดูเพิ่มเติม
+    label: See More
     link: "#services"
