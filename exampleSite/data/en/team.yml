@@ -3,6 +3,18 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: Nichachawalee Chatwattananon
+    image_webp: 'images/004.webp '
+    image: images/004.jpg
+    designation: ''
+    content: ''
+    social: ''
   - name: Jantapa Binheem
     image_webp: 'images/004.webp '
     image: images/004.jpg
@@ -48,9 +60,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
+  - name: Phimwadi Kanjanopas
+    image_webp: 'images/003.webp '
+    image: images/003.jpg
     designation: SEO Specialist
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
