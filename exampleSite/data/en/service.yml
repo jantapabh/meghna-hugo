@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
   - name: Menu
-    icon: ti-food
+    icon: ti-menu
     content: We have a variety of healthy and versatile menus for you to choose from.
   - name: Responsive Design
     icon: ti-layout
