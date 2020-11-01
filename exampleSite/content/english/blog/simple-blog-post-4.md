@@ -1,18 +1,18 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+title: Manipulating photosynthesis for food security
+date: 2018-09-12T12:52:36.000+06:00
+image_webp: "/images/14.jpg"
+image: "/images/14.jpg"
 author: John Doe
-description : "This is meta description"
+description: Manipulating photosynthesis for food security
+
 ---
+## British scientists have gained new insights into the compound in plants that plays a vital role in the natural process through which plants grow.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+The world’s population is projected to expand to more than 10 billion people by the year 2050. Experts say that the rate of food production must increase significantly to feed all of those people. British scientists have gained new insights into the compound in plants that plays a vital role in the natural process through which plants grow.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+During photosynthesis, plants, algae, and certain microorganisms take in sunlight, water, minerals, and carbon dioxide to create glucose and oxygen. Plants release the oxygen into the atmosphere but use the glucose as energy to grow. The more glucose plants produce, the more they grow, which increases their yield. In a recent study published in [**_Nature_**](https://www.nature.com/articles/s41586-019-1746-6), scientists at the University of Sheffield made new revelations about a compound in plants that is vital to maximizing the benefits of photosynthesis: cytochrome b6f.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+With the aid of single-particle cryo-electron microscopy, the researchers determined that cytochrome b6f supplies the electrical power that allows two light-powered proteins (chlorophylls) to convert sunlight into chemical energy (glucose). They also found that cytochrome b6f acts as a sensor to scale photosynthesis according to environmental conditions. This ability prevents plants from suffering too much damage when exposed to excess energy from the sun (e.g., during droughts).
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Previous research had demonstrated that manipulating the level of cytochrome b6f in a plant can affect how much the plant grows. The University of Sheffield researchers hope to use their new findings to manipulate photosynthesis in plants and help increase crop yields in the future.
