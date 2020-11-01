@@ -28,8 +28,7 @@ portfolio:
     image: "/images/004.jpg"
     image_webp: "/images/004.webp"
     categories:
-    - photography
-    - development
+    - Snack
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
