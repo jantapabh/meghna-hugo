@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Menu
+  title: Menu
   portfolio_item:
   - name: Sandwich
     image: "/images/001.jpg"
